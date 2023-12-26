@@ -12,7 +12,7 @@ rakesh instance rahul so we need lot of time to consume so
 use variables to store or hold the data or words"
 
 person1=ramu
-person2=ravi
+person2=raghu
 
 echo " $person1: hi $person2 how are you"
 echo " $person2: fine $person1 what about you"
