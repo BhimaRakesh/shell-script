@@ -1,3 +1,3 @@
 Date=$(date)
 
-this scripting started at :$Date
+echo "this scripting started at :"$Date
