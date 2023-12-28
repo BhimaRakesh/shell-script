@@ -1,8 +1,8 @@
 #!/bin/bash
+a=0
+#ID=$(id -u)
 
-ID=$(id -u)
-
-if[ $ID != 0 ]
+if[ $a != 0 ]
 then
    echo "your not a root user"
 else
