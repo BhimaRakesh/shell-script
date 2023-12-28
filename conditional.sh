@@ -18,7 +18,7 @@ yum install mysql -y
 
 if [ $? != 0 ]
 then
- echo -e"installation is $R failed "
+ echo -e "installation is $R failed "
 else
- echo -e"installation is $G completed "
+ echo -e "installation is $G completed "
 fi
