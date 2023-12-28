@@ -2,7 +2,7 @@
 
 #ID=$(id -u)
 
-#if[ 1 -ne 0 ]
+#if[ 1 != 0 ]
 #then
 #echo "your not a root user"
 #exit 1
@@ -15,8 +15,10 @@ b=20
   
 #Check whether they are equal 
 if [ $a == $b ] 
-then 
-    echo "a is equal to b"
+then   
+echo "a is equal to b"
+else 
+echo "hahaha"
 fi 
   
 #Check whether they are not equal 
