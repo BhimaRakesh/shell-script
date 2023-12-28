@@ -1,10 +1,10 @@
 #!/bin/bash
 
-b=9
+
 ID=$(id -u)
 
 #if[ $a != 0 ]
-if [ $ID != $b ] 
+if [ $ID != 0 ] 
 then
    echo "your not a root user"
 else
