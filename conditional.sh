@@ -35,3 +35,4 @@ else
 
  echo -e "$package is already installed $Y skipping"
 fi
+done
