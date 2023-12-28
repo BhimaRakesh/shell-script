@@ -8,3 +8,4 @@ echo "your not a root user"
 exit 1
 else
 echo "your a root user"
+fi
